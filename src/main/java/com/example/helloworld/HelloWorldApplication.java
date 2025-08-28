@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class HelloWorldApplication {
-    public static void main(String) {
+    public static void m(String) {
         SpringApplication.run(HelloWorldApplication.class, args);
     }
 
